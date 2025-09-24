@@ -1,8 +1,6 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-Com certeza! Vamos substituir o "Anota aí" por algo mais formal, mantendo a clareza e os emojis para o seu README.
-
 ---
 
 ## 💻 Notas de Azure (Resumo Rápido)
